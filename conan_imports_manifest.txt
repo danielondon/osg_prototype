@@ -1,0 +1,12 @@
+1484078379
+C:\workspace\github\osg_prototype\bin\Qt5Concurrent.dll: 27d5eb63854807ba62b875b614b14bcf
+C:\workspace\github\osg_prototype\bin\Qt5Core.dll: 12457ea9f7aaf256f75fed683475fb8d
+C:\workspace\github\osg_prototype\bin\Qt5DBus.dll: 9dd754cb766caac102a1b497ec993544
+C:\workspace\github\osg_prototype\bin\Qt5Gui.dll: 23e02ef81e3a5b7e1d015e856d969cc8
+C:\workspace\github\osg_prototype\bin\Qt5Network.dll: 47419cba5b2d7774c7706e1ee0200a0c
+C:\workspace\github\osg_prototype\bin\Qt5OpenGL.dll: ad90f1a1647c60513999120af38a60e6
+C:\workspace\github\osg_prototype\bin\Qt5PrintSupport.dll: e55445f86eb49532241b06d09eadf584
+C:\workspace\github\osg_prototype\bin\Qt5Sql.dll: 6cd1d7a51bf23b3849c0601cf9f87856
+C:\workspace\github\osg_prototype\bin\Qt5Test.dll: 8f4177e8c316f35da849941dd0909407
+C:\workspace\github\osg_prototype\bin\Qt5Widgets.dll: 01fbdc9256956e0d00ff33f2aadd4115
+C:\workspace\github\osg_prototype\bin\Qt5Xml.dll: e93e76d407520580724dfc48ea4582a0
